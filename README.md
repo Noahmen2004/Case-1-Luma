@@ -54,7 +54,7 @@ We gebruiken **YETOR Waterdichte Connectoren** om de centrale unit met de randap
 
 ## 3D Onderdelen (STL Bestanden)
 
-Alle printbare onderdelen zijn te vinden in de map `/3d-parts`. Het systeem maakt gebruik van een universele "Rekker & Haak" montagemethode.
+Alle printbare onderdelen zijn te vinden in de map `/3d-onderdelen`. Het systeem maakt gebruik van een universele "Rekker & Haak" montagemethode.
 
 ### 1. Verlichtingsmodules
 * **`Light_Holder.stl`**: Behuizing waar de LED-matrix in past.
