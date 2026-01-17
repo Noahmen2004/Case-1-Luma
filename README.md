@@ -38,7 +38,7 @@ Wat LUMA uniek maakt, is het **hybride stroomsysteem**: een hergebruikte DC-moto
 ## Hardware & Componenten
 
 ### Elektronica
-* **Microcontroller:** Arduino Nano (Code in `/src`).
+* **Microcontroller:** Arduino Nano (Code in `/code`).
 * **Sensor:** MPU-6050 Accelerometer (Op zijn zijkant gemonteerd).
 * **Generator:** DC Motor (Gerecycled uit schuurmachine).
 * **Power Conditioning:** Buffercondensator.
