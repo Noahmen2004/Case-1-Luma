@@ -57,21 +57,21 @@ We gebruiken **YETOR Waterdichte Connectoren** om de centrale unit met de randap
 Alle printbare onderdelen zijn te vinden in de map 3D- onderdelen. Het systeem maakt gebruik van een universele "Rekker & Haak" montagemethode.
 
 ### 1. Verlichtingsmodules
-* **`Light_Holder.stl`**: Behuizing waar de LED-matrix in past.
-* **`Light_Lens.stl`**: Transparante lens voor lichtdiffusie die op de houder klikt.
+* Licht houder: Behuizing waar de LED-matrix in past.
+* Licht lens: Transparante lens voor lichtdiffusie die op de houder klikt.
 
 ### 2. Centrale Control Unit
-* **`Main_Housing_Body.stl`**: Behuizing voor de Arduino Nano, PCB en Powerbank.
-* **`Main_Housing_Seal_TPU.stl`**: Een flexibele dichtingsring (**Print in TPU**) voor het waterdicht maken van de deksel.
+* Behuizing dynamo en powerbank: Behuizing voor de Arduino Nano, PCB en Powerbank.
+* Dichtingsring: Een flexibele dichtingsring (**Print in TPU**) voor het waterdicht maken van de deksel.
 
 ### 3. DIY Dynamo Systeem
-* **`Motor_Mount_Holder.stl`**: Robuuste klem om de schuurmachine-motor aan de voor- of achtervork te bevestigen.
-* **`Friction_Wheel.stl`**: Een wrijvingswiel dat op de as van de DC-motor wordt geperst om contact te maken met de fietsband.
+* Dynamo houder: Robuuste klem om de schuurmachine-motor aan de voor- of achtervork te bevestigen.
+* Dynamo wiel: Een wrijvingswiel dat op de as van de DC-motor wordt geperst om contact te maken met de fietsband.
 
 ### 4. Bediening & Montage
-* **`Button_Housing.stl`**: Behuizing voor de 3 knoppen aan het stuur.
-* **`Mounting_Hook.stl`**: Universele haak voor het montagesysteem.
-* **`Adjustable_Strap.stl`**: Een flexibele, verstelbare rekker (**Print in TPU**) die om het fietsframe spant en in de haak grijpt.
+* Knoppen behuizing: Behuizing voor de 3 knoppen aan het stuur.
+* Bevestigings haak: Universele haak voor het montagesysteem.
+* Aanpasbare rekker: Een flexibele, verstelbare rekker (**Print in TPU**) die om het fietsframe spant en in de haak grijpt.
 
 
 
